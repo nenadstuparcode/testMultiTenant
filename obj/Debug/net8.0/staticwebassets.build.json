@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gZ35AahWqog9ZCOKR2jhd8lCCe+tBPvFq4muY2nt42o=",
+  "Source": "FinbuckleMultiTenant",
+  "BasePath": "_content/FinbuckleMultiTenant",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
